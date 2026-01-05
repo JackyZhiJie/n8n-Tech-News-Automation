@@ -4,8 +4,6 @@ An automated AI agent built with **n8n** that curates, summarises, and delivers 
 
 ![n8n Workflow](https://github.com/JackyZhiJie/n8n-Tech-News-Automation/blob/31d824a6deb43571cf40df8391fb0bcac0b3d1cb/Tech%20News%20Automation%20Email.jpg)
 
-
-
 ## **🚀 Project Overview**
 
 This workflow is designed to streamline information intake. Instead of manually checking multiple news sources, this agent acts as a personal research assistant. It fetches RSS feeds, uses a local Large Language Model (LLM) to read and summarise the content, and dispatches a consolidated report.
@@ -21,7 +19,6 @@ This workflow is designed to streamline information intake. Instead of manually 
 
 ## **🛠️ Technical Workflow**
 ```
-graph LR
     A[🕒 Schedule Trigger] --> B(📡 RSS Fetcher)
     B --> C{⚡ Limit Top 5}
     C --> D[🧠 AI Agent - Llama 3.2]
