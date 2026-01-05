@@ -2,6 +2,8 @@
 
 An automated AI agent built with **n8n** that curates, summarises, and delivers the latest technology and railway signalling news directly to your inbox and WhatsApp every morning.
 
+![n8n Workflow](https://github.com/JackyZhiJie/n8n-Tech-News-Automation/blob/9121710ae25d4469e0cfa2f70f4f8ed4d62132cd/Daily%20Summarised%20Railway%20News%20Report%20Automation.png)
+
 ## **🚀 Project Overview**
 
 This workflow is designed to streamline information intake. Instead of manually checking multiple news sources, this agent acts as a personal research assistant. It fetches RSS feeds, uses a local Large Language Model (LLM) to read and summarise the content, and dispatches a consolidated report.
