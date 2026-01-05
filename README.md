@@ -2,7 +2,9 @@
 
 An automated AI agent built with **n8n** that curates, summarises, and delivers the latest technology and railway signalling news directly to your inbox and WhatsApp every morning.
 
-![n8n Workflow](https://github.com/JackyZhiJie/n8n-Tech-News-Automation/blob/9121710ae25d4469e0cfa2f70f4f8ed4d62132cd/Daily%20Summarised%20Railway%20News%20Report%20Automation.png)
+![n8n Workflow](https://github.com/JackyZhiJie/n8n-Tech-News-Automation/blob/31d824a6deb43571cf40df8391fb0bcac0b3d1cb/Tech%20News%20Automation%20Email.jpg)
+
+
 
 ## **🚀 Project Overview**
 
